@@ -1,6 +1,6 @@
 # Library App
 
-A simple vanilla JavaScript library tracker where you can add books, toggle read status, and remove books.
+A simple vanilla JavaScript library tracker where you can add books, toggle read status, and remove books - shows my JS abilities.
 
 ## Live Site
 
